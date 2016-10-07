@@ -1,0 +1,9 @@
+@(title: String, jsLocation: String)(implicit req: RequestHeader)
+
+@layout(title) {
+    <div id="root" class="main">
+        <h1>Loading...</h1>
+    </div>
+
+    <script src="@jsLocation"></script>
+}

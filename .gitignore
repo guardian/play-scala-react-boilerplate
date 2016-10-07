@@ -1,0 +1,14 @@
+logs
+target
+node_modules/
+
+.DS_Store
+/.idea
+/.idea_modules
+/.classpath
+/.settings
+/RUNNING_PID
+
+public/bundle.js
+public/main.css
+project/project
